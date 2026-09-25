@@ -34,4 +34,4 @@ pipeline:
         - name: publish
           run:
             shell: sh
-            script: echo "This step never runs"
+            script: echo "This step never runs. Yes"
